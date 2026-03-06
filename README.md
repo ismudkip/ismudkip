@@ -17,9 +17,6 @@ Estudiante bootcamp **Vue.js/Vite/Firebase**. Proyectos **live** GitHub Pages. O
 
  Responsive • Agile/ABP • APIs REST • Git Flow • SASS/SCSS • VS Code Pro
 
-## 📈 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ismudkip&show_icons=true&theme=dark&hide_border=true)
-
 ## 🎯 Elevator Pitch
 "Frontend Vue apasionado e-commerce. Bootcamp: SPA Firebase live + responsive. **Listo Mercado Libre juniors!** Colaborativo, git pro."
 
